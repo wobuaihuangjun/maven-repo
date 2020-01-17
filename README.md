@@ -1,6 +1,6 @@
 # maven-repo
 
-## 一、okhttp
+## 一、okhttp demo
 ### 1、项目添加远程Maven库
 在项目的根目录的build.gradle文件中allprojects.repositories添加如下代码：
 ```

@@ -3,10 +3,11 @@
   <groupId>com.hzj.util</groupId>
   <artifactId>log</artifactId>
   <versioning>
-    <release>0.0.1-Dev</release>
+    <release>0.0.2-Dev</release>
     <versions>
       <version>0.0.1-Dev</version>
+      <version>0.0.2-Dev</version>
     </versions>
-    <lastUpdated>20200210094954</lastUpdated>
+    <lastUpdated>20200210095613</lastUpdated>
   </versioning>
 </metadata>
